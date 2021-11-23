@@ -2,7 +2,7 @@ class Coche {
     velocidadmax;
     acceleracion;
     velocidad = 0;
-    distanciarecorrida = 0;
+    distanciarecorrida = 0 ;
 
     constructor(velocidadmax, acceleracion){
         this.velocidadmax = velocidadmax;
